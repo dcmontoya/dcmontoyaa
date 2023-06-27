@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:Institut für Diskrete Mathematik und Geometrie. Technische Universität Wien. Address. Contacts
+subtitle:Institut fur Diskrete Mathematik und Geometrie. Technische Universitat Wien. Address. Contacts
 
 profile:
   align: right
