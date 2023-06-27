@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Institut fur Diskrete Mathematik und Geometrie. Technische Universitat Wien. 
+subtitle: Set Theory group. Institut fur Diskrete Mathematik und Geometrie.  
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>Technische Universitat Wien</p>
     <p>Wiedner Hauptstraße 8–10/104</p>
     <p>1040 Vienna, Austria</p>
     
@@ -25,10 +26,4 @@ Currently, I am an FWF-Hertha Firnberg postdoctoral fellow at the Discrete Mathe
 My research interests deal with Set Theory, specifically forcing, cardinal invariants of the continuum, and its generalizations to the context of uncountable cardinals. In the last few years, I have been mostly focused on studying maximal independent families and the generalizations of cardinal characteristics to singular cardinals.
 In June 2017, I finished my Ph.D. at the University of Vienna with a dissertation titled "Some cardinal invariants of the Generalized Baire Spaces" supervised by Professor Sy-David Friedman. The official version of the thesis can be found here. My previous studies in Mathematics were both done in Bogotá, Colombia at Universidad de los Andes (Master) and Universidad Nacional de Colombia (Undergraduate).
 
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
