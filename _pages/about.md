@@ -11,9 +11,6 @@ profile:
   address: >
     <p>Wiedner Hauptstraße 8–10/104</p>
     <p>1040 Vienna, Austria</p>
-    <p> E-mail: dcmontoyaa@gmail.com </p>
-    <p>diana.amaya@tuwien.ac.at</p>
-   
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
